@@ -1,0 +1,15 @@
+mandala-viewer, mandala-container {
+	width: 100%;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+mandala-list {
+	display: grid;
+	grid-template-columns: 100%;
+}
+
+mandala-button {
+  cursor: pointer;
+	width:100%;
+}

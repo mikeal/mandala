@@ -1,0 +1,15 @@
+{
+  "name": "mandalas",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Mandalas are n-dimensional arrays that interconnect a set of teachings into a navigatabale structure that teaches the movement of such teachings by way of their arrangement.",
+  "scripts": {
+    "build": "node index.html.js > index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Vajra",
+  "dependencies": {
+    "html-beautify": "^1.0.4"
+  }
+}
